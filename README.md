@@ -9,7 +9,8 @@ I'm **[`Jishnu`](https://www.instagram.com/_jishnut/)**, a Certified Ethical Hac
 
 - **Name**: Jishnu T
 - **From**: India
--**Naval Architect** | **Penetration Tester** | **Security Researcher** | **Bug Hunter** 
+  
+**Naval Architect** | **Penetration Tester** | **Security Researcher** | **Bug Hunter** 
 
 👨‍💻 I'm a **Naval Architect** by profession and a **Cybersecurity Enthusiast** by passion.
 
